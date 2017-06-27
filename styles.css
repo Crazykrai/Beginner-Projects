@@ -3,5 +3,7 @@ img {
 }
 body {
     text-align: center;
-    font-family: "Arial";
+    font-family: "Hacked";
+    color: #0000ff;
+    background-image: radial-gradient(#fff 10%,#cff 40%);
 }
