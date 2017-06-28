@@ -1,5 +1,5 @@
 function sayThatWasEasy() {
-  var thatWasEasy = new Audio("Bring_Me_To_Life_Duet.mp3");
+  var thatWasEasy = new Audio("Goofy Evanescence.mp3");
   thatWasEasy.play();
 }
 
