@@ -1,0 +1,19 @@
+table, th, td {
+    border: 1px solid black;
+}
+h1 {
+    color: #FF8C00;
+}
+img {
+    width: 300px;
+    height: 300px;
+}
+li {
+    background-color: #FFFF00;
+}
+.Row1 {
+    background-color: Pink;
+}
+.Row2 {
+    background-color: #F08080;
+}
